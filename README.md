@@ -1,2 +1,2 @@
-# Relationship between Financing and Productivity 
-### _Evidence from the manufacturing industry in India_
+# Relationship between financing and productivity
+_Evidence from the manufacturing industry in India_

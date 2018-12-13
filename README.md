@@ -3,6 +3,7 @@
 To examine the relationship between financing and productivity, this analysis uses Prowess database from [Center of Monitoring Indian Economy](https://www.cmie.com/), which contains over 48,000 manufacturing companies and has a 25-year time series for the older companies. Econometrics and quantitative economics concepts are used to define the model. The goal is to test whether the causality existed in this relationship.
 ### Process
 There are # steps applied to complete this analysis.
-(put procss picture)
+![alt text](img/FM_Process.png)
+
 ### Models
 dg

@@ -11,3 +11,4 @@ To examine the relationship between financing and productivity, this analysis us
 Where an individual firm is indexed i in the industry j at state k for each year t. Output (Y) defines a firm’s productivity calculated by the total sales, the gross fixed assets, and the net fixed assets. Borrowings from banks (Loans) are categorized in several groups including the aggregate loans, short-term loans, long-term loans; short-term loans from private and public sector banks, and long-term loans from private and public sector banks.<br><br>
 #### Robust Specification
 ![Equ.2](https://github.com/katetywu/Financial-Market/blob/master/Image/Equation2.jpg)<br>
+...

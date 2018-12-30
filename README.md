@@ -18,4 +18,4 @@ The causal effect of loans on productivity is not obvious. Short-term loans, whi
 (2) Short-term loans have more influences on productivities than long-term loans.<br>
 (3) Loans lent by private sector banks are important to firms' productivities.<br>
 (4) Computer software firms highly rely on long-term loans, while non-computer-software firms are dependent on short-term loans; but they all borrow loans from private sector banks.<br>
-(5) This study is still working on finding the causal effect between financing and productivity.
+(5) There is not an obvious causality between financing and productivity, but this study is still working on it.

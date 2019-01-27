@@ -2,9 +2,6 @@
 ### Summary
 To examine the relationship between financing and productivity in India, this analysis uses Prowess database from [Center of Monitoring Indian Economy](https://www.cmie.com/), which contains over 48,000 manufacturing companies and has a 25-year time series for the older companies. Econometrics and quantitative economics concepts are used to define the model. STATA was used to analyze the whole study, but STATA kernel in Jupyter Notebook will show the processes and codes here. The goal is to test whether the causality existed in this relationship.
 
-### Process
-![Process](https://github.com/katetywu/Financial-Market/blob/master/Image/FM_Process.jpg)
-
 ### Models
 #### (1) Baseline
 ![Equ.1](https://github.com/katetywu/Financial-Market/blob/master/Image/Equation1.jpg)<br>

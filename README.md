@@ -1,6 +1,6 @@
-# Relationship between financing and productivity
+# Financing and Productivity: Evidence from Indian Manufacturing Industry
 ### Summary
-To examine the relationship between financing and productivity in India, this analysis uses Prowess database from [Center of Monitoring Indian Economy](https://www.cmie.com/), which contains over 48,000 manufacturing companies and has a 25-year time series for the older companies. Econometrics and quantitative economics concepts are used to define the model. STATA was used to analyze the whole study, but STATA kernel in Jupyter Notebook will show the processes and codes here. The goal is to test whether the causality existed in this relationship.
+To examine the relationship between financing and productivity in India, this analysis uses Prowess database from [Center of Monitoring Indian Economy](https://www.cmie.com/), which contains over 48,000 manufacturing companies and has a 25-year time series for the older companies. Econometrics and quantitative economics concepts are used to define the model.
 
 ### Models
 #### (1) Baseline
@@ -17,4 +17,5 @@ The causal effect of loans on productivity is not obvious. Short-term loans, whi
 (4) Computer software firms highly rely on long-term loans, while non-computer-software firms are dependent on short-term loans; but they all borrow loans from private sector banks.<br>
 (5) There is no obvious causality in this research.
 
-
+### Interested?
+[Read and download the paper here]("https://repository.usfca.edu/thes/236/)

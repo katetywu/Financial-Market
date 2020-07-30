@@ -18,4 +18,4 @@ The causal effect of loans on productivity is not obvious. Short-term loans, whi
 (5) There is no obvious causality in this research.
 
 ### Interested?
-[Read and download the paper here]("https://repository.usfca.edu/thes/236/)
+[Read and download the paper here]("https://repository.usfca.edu/thes/236/")
